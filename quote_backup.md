@@ -21,4 +21,3 @@
 > “Mr. Macintosh is a mysterious little man who lives inside each Macintosh computer,” Jobs reportedly said. “He pops up every once and a while, when you least expect it, and then winks at you and disappears again. It will be so quick that you won’t be sure if you saw him or not.”
 > 
 > -- Steve Jobs (https://folklore.org/Mister_Macintosh.html)
-
