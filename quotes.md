@@ -22,3 +22,6 @@
 > 
 > -- Steve Jobs (https://folklore.org/Mister_Macintosh.html)
 
+> "We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+> 
+> -- Ellen Ullman (quoted in Kill it With Fire)
